@@ -57,7 +57,8 @@ other text editor( I prefer free notepad++).
 In this project we have two main verilog files namely: OurProjectFire.v and OurProjectSAS.v for two different IoT scenarios, i.e., for fire detection and smart
 irrigation system, and 5 testbench files (i.e., CaseOne_tb.v, CaseTwo_tb.v, CaseThree_tb, CaseFour_tb.v, and Casefive_tb.v) for OurProjectFire.v and OurProjectSAS.v module, 
 
-Note: Full details of each moudle and testbench is given in the file "Icarus Verilog project Code user manual.pdf" such as how to run each module and what are the coresponding output etc.
+Note: Full details of each moudle and testbench is given in the file "Icarus Verilog project Code user manual.pdf" such as how to run each module and what are the coresponding output etc using below link.
+https://github.com/hafizdir101/IGTDC-Project/blob/main/Icarus%20Verilog%20project%20Code%20user%20manual.pdf
 
 # Below is the brief discription how to run the firt module with the coresponding testbench.
 
@@ -86,9 +87,6 @@ C:\iverilog\bin>gtkwave test.vcd &
 #For result/output you can check the "Icarus Verilog project Code user manual.pdf" file
 
 https://github.com/hafizdir101/IGTDC-Project/blob/main/Icarus%20Verilog%20project%20Code%20user%20manual.pdf
-
-
-################################################################################################################
 
 
 
