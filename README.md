@@ -82,10 +82,12 @@ C:\iverilog\bin>gtkwave test.vcd &
 
 # Note: The above commands can be used for Case 2, Case 3, and Case 4 and OurProjectSAS.V and Case 5 according too.
 
-################################################################################################################
-#
-#For result/output you can check the "Icarus Verilog project Code user manual.pdf" file.
-#
+
+#For result/output you can check the "Icarus Verilog project Code user manual.pdf" file
+
+https://github.com/hafizdir101/IGTDC-Project/blob/main/Icarus%20Verilog%20project%20Code%20user%20manual.pdf
+
+
 ################################################################################################################
 
 
